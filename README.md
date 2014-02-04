@@ -20,7 +20,7 @@ Installation
 1) Add the following line to your Symfony2 deps file:
     
     [PagerBundle]
-        git=http://github.com/punkave/symfony2-doctrine-pager.git
+        git=https://github.com/punkave/symfony2-pager-bundle.git
         target=/bundles/PunkAve/PagerBundle
 
 2) Modify your AppKernel with the following line:
